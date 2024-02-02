@@ -1,4 +1,4 @@
- Springboot-chatapp
+Real-Time Chat Application
  
 # Chat Application Project
   This is a chat application project that allows users to communicate with each other in real-time. It is built using the Spring Boot framework for the backend, SockJS for WebSocket communication, and React for the frontend. The project utilizes Maven as the build tool for the backend.
