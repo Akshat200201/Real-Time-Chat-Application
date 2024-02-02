@@ -39,7 +39,7 @@ Here are some screenshots of the chat application:
 - Private Text ![](https://github.com/Akshat200201/Springboot-chatapp-master/blob/main/img/Chat-1.png)
 
 
-## Project Database Configuration Note
+## Project Database Configuration
 
 **Important: Local Database Setup Required**
 
