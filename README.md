@@ -36,9 +36,8 @@ Here are some screenshots of the chat application:
 ![](https://github.com/Akshat200201/Springboot-chatapp-master/blob/main/img/login-vid.gif)
 
 2. Chat Page
-- Chatroom ![](https://github.com/Kshitijk5/Springboot-chatapp/blob/master/img/Chat-2.png)
-
-- Private Text ![](https://github.com/Kshitijk5/Springboot-chatapp/blob/master/img/Chat-1.png)
+- Chatroom ![](https://github.com/Akshat200201/Springboot-chatapp-master/blob/main/img/Chat-2.png)
+- Private Text ![](https://github.com/Akshat200201/Springboot-chatapp-master/blob/main/img/Chat-1.png)
 
 
 Feel free to explore and enhance the application according to your requirements.
