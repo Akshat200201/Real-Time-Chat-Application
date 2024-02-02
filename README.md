@@ -38,3 +38,15 @@ Here are some screenshots of the chat application:
 - Chatroom ![](https://github.com/Akshat200201/Springboot-chatapp-master/blob/main/img/Chat-2.png)
 - Private Text ![](https://github.com/Akshat200201/Springboot-chatapp-master/blob/main/img/Chat-1.png)
 
+
+## Project Database Configuration Note
+
+**Important: Local Database Setup Required**
+
+This project relies on a local database for certain functionalities. However, please note that the local database may not be readily available when the project is run on local machines due to monetary constraints. To ensure the smooth functioning of the project and enjoy its full potential, it is crucial to configure the local database using the schema defined in the backend files else some chatting functionalities may not work as expected.
+
+**Note:**
+   Failure to configure the local database as instructed may result in impaired functionality of certain chat features. To fully experience the capabilities of this project, it is essential to have a functional local database.
+
+We understand the limitations posed by the use of a local database due to some constraints. We appreciate your understanding and hope that these instructions facilitate a seamless setup for your local development environment.
+
