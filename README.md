@@ -38,9 +38,3 @@ Here are some screenshots of the chat application:
 - Chatroom ![](https://github.com/Akshat200201/Springboot-chatapp-master/blob/main/img/Chat-2.png)
 - Private Text ![](https://github.com/Akshat200201/Springboot-chatapp-master/blob/main/img/Chat-1.png)
 
-
-Feel free to explore and enhance the application according to your requirements.
-
-## Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please create a new issue in the repository.
-
